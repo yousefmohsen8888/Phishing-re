@@ -1,0 +1,37 @@
+Protecting Yourself from Phishing Attacks
+
+Introduction:
+Phishing attacks have become increasingly prevalent in today's digital world. They are a form of cybercrime where attackers trick individuals into revealing sensitive information such as passwords, credit card numbers, or other personal data. This training module aims to educate you on recognizing and avoiding phishing attacks in various forms, including emails, websites, and social engineering tactics.
+
+Module 1: Understanding Phishing Attacks
+
+Definition of phishing attacks
+Goals of phishing attacks (e.g., stealing personal information, financial fraud, spreading malware)
+Common methods used in phishing attacks (e.g., email phishing, spear phishing, whaling, vishing, smishing)
+Module 2: Recognizing Phishing Emails
+
+Red flags to look for in email headers and content (e.g., misspelled words, generic greetings, urgent requests)
+Suspicious email attachments and links
+Examples of phishing emails and how to identify them
+Importance of verifying the sender's email address and domain
+Module 3: Avoiding Phishing Websites
+
+Characteristics of phishing websites (e.g., deceptive URLs, poor design, lack of HTTPS)
+Tips for identifying phishing websites
+Browser security features (e.g., anti-phishing filters, URL scanning)
+Safe browsing practices (e.g., typing URLs directly into the browser, using bookmarks)
+Module 4: Social Engineering Tactics
+
+Definition of social engineering
+Common social engineering tactics used in phishing attacks (e.g., pretexting, baiting, quid pro quo)
+How to recognize and respond to social engineering attempts (e.g., verifying identity, being cautious with sharing personal information)
+Module 5: Best Practices for Phishing Prevention
+
+Keep software up to date
+Use strong, unique passwords and consider using a password manager
+Enable two-factor authentication wherever possible
+Educate yourself and others about phishing awareness
+Report phishing attempts to the appropriate authorities or IT/security team
+Conclusion:
+Phishing attacks continue to pose a significant threat to individuals and organizations alike. By understanding the tactics used by attackers and adopting best practices for prevention, you can protect yourself and your organization from falling victim to phishing scams. Stay vigilant, stay informed, and stay safe online. Remember, when in doubt, always verify before you trust.
+
